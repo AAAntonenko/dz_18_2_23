@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "доп_увеличение_подмассива/1.0.0": {
+        "runtime": {
+          "доп_увеличение_подмассива.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "доп_увеличение_подмассива/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

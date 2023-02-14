@@ -1,0 +1,15 @@
+/Users/a-.-/Desktop/дз_18_2/доп_присвоение/bin/Debug/net6.0/доп_присвоение
+/Users/a-.-/Desktop/дз_18_2/доп_присвоение/bin/Debug/net6.0/доп_присвоение.deps.json
+/Users/a-.-/Desktop/дз_18_2/доп_присвоение/bin/Debug/net6.0/доп_присвоение.runtimeconfig.json
+/Users/a-.-/Desktop/дз_18_2/доп_присвоение/bin/Debug/net6.0/доп_присвоение.dll
+/Users/a-.-/Desktop/дз_18_2/доп_присвоение/bin/Debug/net6.0/доп_присвоение.pdb
+/Users/a-.-/Desktop/дз_18_2/доп_присвоение/obj/Debug/net6.0/доп_присвоение.csproj.AssemblyReference.cache
+/Users/a-.-/Desktop/дз_18_2/доп_присвоение/obj/Debug/net6.0/доп_присвоение.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a-.-/Desktop/дз_18_2/доп_присвоение/obj/Debug/net6.0/доп_присвоение.AssemblyInfoInputs.cache
+/Users/a-.-/Desktop/дз_18_2/доп_присвоение/obj/Debug/net6.0/доп_присвоение.AssemblyInfo.cs
+/Users/a-.-/Desktop/дз_18_2/доп_присвоение/obj/Debug/net6.0/доп_присвоение.csproj.CoreCompileInputs.cache
+/Users/a-.-/Desktop/дз_18_2/доп_присвоение/obj/Debug/net6.0/доп_присвоение.dll
+/Users/a-.-/Desktop/дз_18_2/доп_присвоение/obj/Debug/net6.0/refint/доп_присвоение.dll
+/Users/a-.-/Desktop/дз_18_2/доп_присвоение/obj/Debug/net6.0/доп_присвоение.pdb
+/Users/a-.-/Desktop/дз_18_2/доп_присвоение/obj/Debug/net6.0/доп_присвоение.genruntimeconfig.cache
+/Users/a-.-/Desktop/дз_18_2/доп_присвоение/obj/Debug/net6.0/ref/доп_присвоение.dll

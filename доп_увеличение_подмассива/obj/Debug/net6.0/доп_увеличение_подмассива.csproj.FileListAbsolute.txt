@@ -1,0 +1,15 @@
+/Users/a-.-/Desktop/дз_18_2/доп_увеличение_подмассива/bin/Debug/net6.0/доп_увеличение_подмассива
+/Users/a-.-/Desktop/дз_18_2/доп_увеличение_подмассива/bin/Debug/net6.0/доп_увеличение_подмассива.deps.json
+/Users/a-.-/Desktop/дз_18_2/доп_увеличение_подмассива/bin/Debug/net6.0/доп_увеличение_подмассива.runtimeconfig.json
+/Users/a-.-/Desktop/дз_18_2/доп_увеличение_подмассива/bin/Debug/net6.0/доп_увеличение_подмассива.dll
+/Users/a-.-/Desktop/дз_18_2/доп_увеличение_подмассива/bin/Debug/net6.0/доп_увеличение_подмассива.pdb
+/Users/a-.-/Desktop/дз_18_2/доп_увеличение_подмассива/obj/Debug/net6.0/доп_увеличение_подмассива.csproj.AssemblyReference.cache
+/Users/a-.-/Desktop/дз_18_2/доп_увеличение_подмассива/obj/Debug/net6.0/доп_увеличение_подмассива.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a-.-/Desktop/дз_18_2/доп_увеличение_подмассива/obj/Debug/net6.0/доп_увеличение_подмассива.AssemblyInfoInputs.cache
+/Users/a-.-/Desktop/дз_18_2/доп_увеличение_подмассива/obj/Debug/net6.0/доп_увеличение_подмассива.AssemblyInfo.cs
+/Users/a-.-/Desktop/дз_18_2/доп_увеличение_подмассива/obj/Debug/net6.0/доп_увеличение_подмассива.csproj.CoreCompileInputs.cache
+/Users/a-.-/Desktop/дз_18_2/доп_увеличение_подмассива/obj/Debug/net6.0/доп_увеличение_подмассива.dll
+/Users/a-.-/Desktop/дз_18_2/доп_увеличение_подмассива/obj/Debug/net6.0/refint/доп_увеличение_подмассива.dll
+/Users/a-.-/Desktop/дз_18_2/доп_увеличение_подмассива/obj/Debug/net6.0/доп_увеличение_подмассива.pdb
+/Users/a-.-/Desktop/дз_18_2/доп_увеличение_подмассива/obj/Debug/net6.0/доп_увеличение_подмассива.genruntimeconfig.cache
+/Users/a-.-/Desktop/дз_18_2/доп_увеличение_подмассива/obj/Debug/net6.0/ref/доп_увеличение_подмассива.dll

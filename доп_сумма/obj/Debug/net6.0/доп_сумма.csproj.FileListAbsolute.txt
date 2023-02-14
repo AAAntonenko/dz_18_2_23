@@ -1,0 +1,15 @@
+/Users/a-.-/Desktop/дз_18_2/доп_сумма/bin/Debug/net6.0/доп_сумма
+/Users/a-.-/Desktop/дз_18_2/доп_сумма/bin/Debug/net6.0/доп_сумма.deps.json
+/Users/a-.-/Desktop/дз_18_2/доп_сумма/bin/Debug/net6.0/доп_сумма.runtimeconfig.json
+/Users/a-.-/Desktop/дз_18_2/доп_сумма/bin/Debug/net6.0/доп_сумма.dll
+/Users/a-.-/Desktop/дз_18_2/доп_сумма/bin/Debug/net6.0/доп_сумма.pdb
+/Users/a-.-/Desktop/дз_18_2/доп_сумма/obj/Debug/net6.0/доп_сумма.csproj.AssemblyReference.cache
+/Users/a-.-/Desktop/дз_18_2/доп_сумма/obj/Debug/net6.0/доп_сумма.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a-.-/Desktop/дз_18_2/доп_сумма/obj/Debug/net6.0/доп_сумма.AssemblyInfoInputs.cache
+/Users/a-.-/Desktop/дз_18_2/доп_сумма/obj/Debug/net6.0/доп_сумма.AssemblyInfo.cs
+/Users/a-.-/Desktop/дз_18_2/доп_сумма/obj/Debug/net6.0/доп_сумма.csproj.CoreCompileInputs.cache
+/Users/a-.-/Desktop/дз_18_2/доп_сумма/obj/Debug/net6.0/доп_сумма.dll
+/Users/a-.-/Desktop/дз_18_2/доп_сумма/obj/Debug/net6.0/refint/доп_сумма.dll
+/Users/a-.-/Desktop/дз_18_2/доп_сумма/obj/Debug/net6.0/доп_сумма.pdb
+/Users/a-.-/Desktop/дз_18_2/доп_сумма/obj/Debug/net6.0/доп_сумма.genruntimeconfig.cache
+/Users/a-.-/Desktop/дз_18_2/доп_сумма/obj/Debug/net6.0/ref/доп_сумма.dll
